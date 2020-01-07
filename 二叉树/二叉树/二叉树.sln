@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二叉树", "二叉树\二叉树.csproj", "{0707A70E-ACC5-41CC-8F1A-B7F44F893238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0707A70E-ACC5-41CC-8F1A-B7F44F893238}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{0707A70E-ACC5-41CC-8F1A-B7F44F893238}.Debug|anycpu.Build.0 = Debug|anycpu
+		{0707A70E-ACC5-41CC-8F1A-B7F44F893238}.Release|anycpu.ActiveCfg = Release|anycpu
+		{0707A70E-ACC5-41CC-8F1A-B7F44F893238}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
