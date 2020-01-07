@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "扑克牌", "扑克牌\扑克牌.csproj", "{29AEDECA-1E41-486C-9190-E0D668B83B13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29AEDECA-1E41-486C-9190-E0D668B83B13}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{29AEDECA-1E41-486C-9190-E0D668B83B13}.Debug|anycpu.Build.0 = Debug|anycpu
+		{29AEDECA-1E41-486C-9190-E0D668B83B13}.Release|anycpu.ActiveCfg = Release|anycpu
+		{29AEDECA-1E41-486C-9190-E0D668B83B13}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
