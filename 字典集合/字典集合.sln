@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字典集合", "字典集合\字典集合.csproj", "{32CE2A2B-2F49-4337-BADA-764B71E2379F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32CE2A2B-2F49-4337-BADA-764B71E2379F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{32CE2A2B-2F49-4337-BADA-764B71E2379F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{32CE2A2B-2F49-4337-BADA-764B71E2379F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{32CE2A2B-2F49-4337-BADA-764B71E2379F}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
