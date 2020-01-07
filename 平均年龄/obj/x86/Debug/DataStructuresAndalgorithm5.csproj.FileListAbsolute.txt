@@ -1,0 +1,5 @@
+/Users/liuyixin/Desktop/'OO                                             /DataStructuresAndalgorithm /bin/Debug/pllllllll.exe
+/Users/liuyixin/Desktop/'OO                                             /DataStructuresAndalgorithm /bin/Debug/pllllllll.pdb
+/Users/liuyixin/Desktop/'OO                                             /DataStructuresAndalgorithm /obj/x86/Debug/DataStructuresAndalgorithm5.csprojAssemblyReference.cache
+/Users/liuyixin/Desktop/'OO                                             /DataStructuresAndalgorithm /obj/x86/Debug/pllllllll.exe
+/Users/liuyixin/Desktop/'OO                                             /DataStructuresAndalgorithm /obj/x86/Debug/pllllllll.pdb

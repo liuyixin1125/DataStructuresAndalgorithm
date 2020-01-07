@@ -1,0 +1,1 @@
+/Users/liuyixin/Desktop/liuyixin/平均年龄/obj/x86/Debug/平均年龄计算.csprojAssemblyReference.cache
